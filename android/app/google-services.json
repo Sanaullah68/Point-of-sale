@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87226030597",
+    "project_id": "sale-a80e5",
+    "storage_bucket": "sale-a80e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87226030597:android:b59660a5285df266f9da6c",
+        "android_client_info": {
+          "package_name": "com.example.point_of_sale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuhIr8Ocu9KdelavTWWEU130V5DkypQjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
